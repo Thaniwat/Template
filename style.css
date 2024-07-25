@@ -1,0 +1,83 @@
+.container {
+    width: 750px;
+    text-align: center;
+    margin: auto;
+    border: 2px solid;
+}
+
+.header {
+    height: 100px;
+    padding: 5px;
+    background-color: lightblue;
+}
+
+.sidebar {
+    width: 150px;
+    height: 500px;
+    float: left;
+    background-color: lightslategrey
+}
+#menu1 {
+    width: 130px;
+    height: 50px;
+    margin: 5px 10px 2.5px 10px;
+    border-radius: 10px;
+    font-size: 17px;
+    float: left;
+    background-color: lightgray;
+}
+#menu2 {
+    width: 130px;
+    height: 50px;
+    margin: 2.5px 10px 2.5px 10px;
+    border-radius: 10px;
+    font-size: 17px;
+    float: left;
+    background-color: lightgray;
+}
+#menu3 {
+    width: 130px;
+    height: 50px;
+    margin: 2.5px 10px 2.5px 10px;
+    border-radius: 10px;
+    font-size: 17px;
+    float: left;
+    background-color: lightgray;
+}
+
+.main-content {
+    width: 600px;
+    height: 500px;
+    float: right;
+    background-color: lightskyblue;
+}
+#Banner {
+    width: 587px;
+    height: 145px;
+    margin: 5px 5px;
+    padding: 1px;
+    background-color: lightcyan;
+}
+#News {
+    width: 290px;
+    height: 335px;
+    margin-left: 5px;
+    padding: 1px;
+    float: left;
+    background-color: lightcyan;
+}
+#TodoList {
+    width: 290px;
+    height: 335px;
+    margin-right: 5px;
+    padding: 1px;
+    float: right;
+    background-color: lightcyan;
+}
+
+.footer {
+    height: 70px;
+    padding: 1px;
+    clear: both;
+    background-color: lightsteelblue;
+}
